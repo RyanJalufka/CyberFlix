@@ -1,0 +1,70 @@
+
+body {
+  background: #FFA17F;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #0066cc, #ccffff);  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-gradient(linear, right top, left top, from(#0066cc), to(#ccffff));
+  background: -webkit-linear-gradient(right, #0066cc, #ccffff);
+  background: -o-linear-gradient(right, #0066cc, #ccffff);
+  background: linear-gradient(to left, #0066cc, #ccffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height: 500px;
+}
+
+
+#form {
+	padding: 10px 10px 10px 10px;
+    height: auto;
+    width: 50%;
+    margin-bottom: 8px;
+}
+
+form {
+	margin-bottom: 8px;
+}
+
+#title {
+    font-family: 'Poiret One', cursive;
+    font-size:7vw;
+}
+
+#content {
+	font-family: 'Raleway', sans-serif;
+}
+
+.w3-modal-content {
+    text-align: center;
+    width: 2%;
+}
+
+#button-primary {
+    
+}
+
+header {
+	border-radius: 8px 8px 0px 0px;
+}
+
+#title-input { 
+	margin: 10px; 
+	margin-top: 20px;
+}
+
+#film-desc { 
+	margin-bottom: 10px; 
+	margin-right: 45px;
+}
+
+#select-button { margin-bottom: 7px; }
+
+#search-button { 
+	margin-bottom: 8px; 
+	color: white;
+	background: #202020;
+}
+
+#submit-button { margin-bottom: 9px; }
+
+div.w3-modal-content.w3-round-large {
+	width: 40%;
+
+}
+
